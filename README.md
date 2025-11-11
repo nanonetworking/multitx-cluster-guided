@@ -38,10 +38,8 @@ letter-repo/
 │   ├── 1.csv                          # Particle trajectory data (scenario 1)
 │   ├── ...
 │   ├── 9.csv                          # Particle trajectory data (scenario 9)
-│   └── angle_results.zip              # Compressed angle estimation results
-└── uniform_test/
-    └── angle_results/
-        └── all_results_enhanced.csv   # Wide format clustering results (input to convert_wide_to_long)
+│   └── angle_results/
+        └── all_results_enhanced.csv   # Wide format clustering results
 ```
 
 ---
