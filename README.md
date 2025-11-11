@@ -38,7 +38,7 @@ letter-repo/
 │   ├── 1.csv                          # Particle trajectory data (scenario 1)
 │   ├── ...
 │   ├── 9.csv                          # Particle trajectory data (scenario 9)
-│   └── angle_results/
+└── └── angle_results/
         └── all_results_enhanced.csv   # Wide format clustering results
 ```
 
